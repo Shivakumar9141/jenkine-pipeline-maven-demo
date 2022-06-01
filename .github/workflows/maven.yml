@@ -32,4 +32,5 @@ jobs:
         registry: hidpdeveastusbotacr.azurecr.io 
         username: ${{ secrets.ACR_USERNAME }}
         password: ${{ secrets.ACR_PASSWORD }}
+        
 
